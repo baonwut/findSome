@@ -3,17 +3,17 @@
 ## 问题：Q1季报中，会发现华东汽车的微博比例过高，但实际，3月开始可能已经开始有所转变，所以在考虑对此事情进行描述，如果不描述，也不会特别提及华东微博比例过高
 
 * 1）左边图，下面是17Q1汽车合同的签约月份分布。只有华北在3月增加了微博的占比；华东因为其最大的客户在3月投了大量的PC，所以3月华东PC增加快。
-![image](https://github.com/baonwut/FindSomethingNew/blob/master/170401/1_1.png)
+![image](https://github.com/baonwut/findSome/blob/master/170401/1_1.png)
 
 * 2）如果去掉华东的最大客户，华东的客户，3月签约的合同，增加了移动端的占比，减少了微博的占比。
-![image](https://github.com/baonwut/FindSomethingNew/blob/master/170401/1_2.png)
+![image](https://github.com/baonwut/findSome/blob/master/170401/1_2.png)
 
 
 # 目的：探讨资源组合对资源位的影响。是否可以增加某个位置的收入？
 ## 数据解释：使用了资源组合包含的资源池的资源，一一配对查询。大部分位置，同一时间可以投放资源池也能单独售卖。
 
 * 发现1：对于手浪的全屏来说，使用资源组合投放的客户APRA值比较理想，但客户数在减少；
-![image](https://github.com/baonwut/FindSomethingNew/blob/master/170401/2_1.png)
+![image](https://github.com/baonwut/findSome/blob/master/170401/2_1.png)
 
 * 发现2：对于手浪焦点图来说，资源组合留住了部分客户（用户稳定），但因ARPA值低，整体收益不理想。17年以后的整体客户数和ARPA值双跳水就另当别论了
-![image](https://github.com/baonwut/FindSomethingNew/blob/master/170401/2_1.png)
+![image](https://github.com/baonwut/findSome/blob/master/170401/2_2.png)
